@@ -49,9 +49,9 @@ A search and question-answering system for NLP/ML papers. It combines **BM25**, 
 
 An end-to-end computer vision pipeline for UAV imagery: dataset validation and cleaning, YOLO/COCO conversion, training and evaluation with **YOLO11**, **Faster R-CNN**, **DETR**, and **RT-DETR**, plus sliced inference for small objects and a Streamlit demo.
 
-### 📦 [Sentiment Data Versioning](https://github.com/Nhattk19/sentiment-dvc-code)
+### 🏨 [Vietnamese Hotel Service Quality Portal](https://github.com/iamDicun/Public_service_quality_portal)
 
-A reproducible sentiment-analysis data workflow using **Git**, **DVC**, and remote dataset storage, keeping source code and data versions cleanly separated.
+A Vietnamese hotel-review **Aspect-Based Sentiment Analysis (ABSA)** system that classifies six service aspects as not mentioned, positive, or negative. It includes data crawling and labeling pipelines; experiments with **ViDeBERTa**, **PhoBERT + BiGRU**, and an SVM baseline; a **FastAPI** inference layer; and a full-stack portal built with **React**, **Vite**, **Tailwind CSS**, **Express**, JWT authentication, and **PostgreSQL**.
 
 ### 🎙️ [Vietnamese TTS & AI Research Tools](https://github.com/wokovn/Project-LT-ML-23KHDL1-HCMUS)
 

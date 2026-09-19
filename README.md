@@ -53,13 +53,9 @@ An end-to-end computer vision pipeline for UAV imagery: dataset validation and c
 
 A reproducible sentiment-analysis data workflow using **Git**, **DVC**, and remote dataset storage, keeping source code and data versions cleanly separated.
 
-### 🎙️ Vietnamese TTS & AI Research Tools
+### 🎙️ [Vietnamese TTS & AI Research Tools](https://github.com/wokovn/Project-LT-ML-23KHDL1-HCMUS)
 
 Experiments and applications around Vietnamese text-to-speech, voice fine-tuning, objective audio metrics, speech generation APIs, and user-facing Flutter/web clients using **PyTorch**, **FastAPI**, **XTTS**, and modern frontend technologies.
-
-### 📺 1Stream — AI-assisted Livestream Platform
-
-A collaborative prototype for education livestream preparation and sales conversations, featuring a **React/TypeScript** frontend and multiple **FastAPI** services for RAG, conversational agents, video, and TTS workflows.
 
 ## GitHub overview
 
